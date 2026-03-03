@@ -1,6 +1,6 @@
 ### Hi, I'm Brian.
 
-Biostatistician at Wake Forest School of Medicine. Finishing my PhD in Statistics at UNC Chapel Hill.                                                
+Biostatistician at the Wake Forest School of Medicine. Finishing my PhD in Statistics at UNC Chapel Hill.                                                
                                                             
 I work on extreme value theory, Bayesian spatial modeling, and climate-health applications.
 
